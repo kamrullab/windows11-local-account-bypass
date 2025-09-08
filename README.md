@@ -1,7 +1,7 @@
 
 # 🖥️ Windows 11 Local Account Bypass
-[![Stars](https://img.shields.io/github/stars/yourusername/windows11-local-account-bypass?style=social)]()
-[![Forks](https://img.shields.io/github/forks/yourusername/windows11-local-account-bypass?style=social)]()
+[![Stars](https://img.shields.io/github/stars/kamrullab/windows11-local-account-bypass?style=social)]()
+[![Forks](https://img.shields.io/github/forks/kamrullab/windows11-local-account-bypass?style=social)]()
 [![License](https://img.shields.io/badge/License-MIT-green.svg)]()
 
 🚀 Install **Windows 11** without Microsoft Account!  
